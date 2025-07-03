@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788964180825",
+    "project_id": "outexplore1",
+    "storage_bucket": "outexplore1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788964180825:android:aa0f32ce12816fea68c248",
+        "android_client_info": {
+          "package_name": "com.example.sampo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_UWspTPvlXX9lXLSdxYVwuGG6b6T_im4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

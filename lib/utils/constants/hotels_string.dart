@@ -1,0 +1,50 @@
+final List<Map<String, dynamic>> places2= [
+  {
+    'name': 'Taj Mahal Palace',
+    'location': 'Mumbai',
+    'images': 'assets/images/splash/Hotels/taj_hotel.jpg',
+    'price': 700,
+    'days': 3,
+    'rating': 4.5,
+  },
+  {
+    'name': 'Raffles Udaipur',
+    'location': 'India',
+    'images': 'assets/images/splash/Hotels/udaipur_5.gif',
+    'price': 250,
+    'days': 4,
+    'rating': 4.7,
+  },
+  {
+    'name': 'Grand Hyatt Kochi',
+    'location': 'Bolgatty',
+    'images': 'assets/images/splash/Hotels/grand_hayat.jpg',
+    'price': 600,
+    'days': 2,
+    'rating': 4.3,
+  },
+  {
+    'name': 'Rambagh Palace',
+    'location': 'Jaipur,rajasthan',
+    'images': 'assets/images/splash/Hotels/place_jaipur.jpg',
+    'price': 350,
+    'days': 3,
+    'rating': 4.5,
+  },
+  {
+    'name': 'Evolve Back  ',
+    'location': 'Hampi, Karnataka, India. ',
+    'images': 'assets/images/splash/Hotels/hampi_hotel.webp',
+    'price': 360,
+    'days': 4,
+    'rating': 4.7,
+  },
+  {
+    'name': 'The Oberoi Amarvilas',
+    'location': 'Agra',
+    'images': 'assets/images/splash/Hotels/agra_hotel.webp',
+    'price': 550,
+    'days': 2,
+    'rating':3.4,
+  }
+];
